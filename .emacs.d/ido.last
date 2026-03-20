@@ -1,0 +1,80 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/sibi/.config/" . "starship/")
+ ("/" . "home/")
+ ("/home/sibi/fletproject/" . "app/")
+ ("/home/sibi/code/python/" . "app/")
+ ("/home/" . "sibi/")
+ ("/home/sibi/code/" . "python/")
+ ("/home/sibi/" . ".config/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/sibi/nexus/"
+ "/home/sibi/adv_c/"
+ "/home/sibi/"
+ "/home/sibi/fletproject/app/"
+ "/home/sibi/my-app/"
+ "/home/sibi/code/python/1/"
+ "/home/sibi/code/python/app/"
+ "/home/sibi/code/python/project/"
+ "/home/sibi/editc/"
+ "/home/sibi/code/c/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "landing-page.html"
+ "main.c"
+ "main.c\\"
+ ".emacs"
+ "main.py"
+ "pyproject.toml"
+ "store.py"
+ "app.py"
+ "CMakeLists.txt"
+ "main.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/sibi/.config/starship/" (27065 28971 244868 175000) "./" "starship.toml.bak" "../" "starship.toml")
+
+ ("/home/sibi/Desktop/" (27065 27995 57066 380000) "./" "geany.desktop" "Alacritty.desktop" "firefox.desktop" "codeblocks.desktop" "event_prom.txt" "io.github.jliljebl.Flowblade.desktop" "xfce4-terminal.desktop" "Cedit/" "code/" "xfce4-taskmanager.desktop" "waydroid.txt" "../" "tlauncher.desktop" "xfce4-session-logout.desktop" "key.txt" "emacsclient.desktop" "starship.toml")
+
+ ("/home/sibi/.config/" (27065 21879 187485 384000) "./" "procps/" "btop/" "pavucontrol.ini" "Thunar/" "vlc/" "helix/" "i3/" "ristretto/" "picom.conf" "nvim/" "flowblade/" "mimeapps.list" "dconf/" "JetBrains/" "user-dirs.locale" "codeblocks/" "user-dirs.dirs" "fish/" "gmic/" "alacritty/" "ranger/" "htop/" "foot/" "gf2_config.ini" "geany/" "mpv/" "../" "light/" "starship/" "polybar/" "sway/" "QtProject.conf" "kitty/" "GREYC/" "librewolf/" "mozilla/" "menus/" "gtk-3.0/" "xfce4/" "pulse/" "Mousepad/")
+
+ ("/home/sibi/my-app/" (27051 51858 870591 431000) "./" "pyproject.toml" "README.md" ".python-version" "../" "main.py" "uv.lock" ".venv/")
+
+ ("/home/sibi/" (27065 16788 996731 475000) "./" ".fehbg" ".var/" "config.fish.save" "dotfiles1/" "Font/" ".dmrc" ".tmux.conf" ".inputrc" ".tlauncher/" "bin/" "intellij/" ".cargo/" ".xsession-errors" "vcpkg/" ".themes/" "Public/" ".cache/" ".emacs.local/" "editc/" "waydroid_script/" ".python_history" ".ssh/" ".vcpkg/" ".emacs.rc/" "Desktop/" "Templates/" "config.fish" "my-app/" ".bashrc" "cat" "Themes/" ".emacs" ".flet/" ".emacs.d/" "Downloads/" "foot.ini" "adv_c/" "config.def.h" "OS/" ".wget-hsts" "void-packages/" ".bash_history" ".java/" "Documents/" ".wine/" ".vimrc" ".minecraft/" "fletproject/" "Pictures/" ".Xauthority" ".git" ".emacs.custom.el" ".pki/" "dotfiles/" "code/" ".local/" ".bash_profile" ".bash_logout" ".icons/" ".gnupg/" "Videos/" "Music/" "../" "nexus/" "light/" ".xinitrc" ".ICEauthority" ".dbus/" "polybar/" "Applications/" "minecraft/" "app/" ".cubyz/" "pack/" "lightc/" "Jarfix/" ".mozilla/" ".xsession-errors.old" "#*message*-20260302-211050#" ".config/" ".gnutls/" ".emacs.snippets/")
+
+ ("/home/sibi/adv_c/" (27045 46188 434699 510000) "./" "main.c" "#main.c#" "../" "main")
+
+ ("/home/sibi/nexus/" (27051 48682 686374 786000) "./" "sound.mp3" "../" "landing-page.html")
+
+ ("/home/sibi/fletproject/app/" (27045 38332 542068 138000) "./" "pyproject.toml" "test.py" "luxe_ecom.egg-info/" "../" "main.py" "uv.lock" ".venv/")
+
+ ("/home/sibi/code/python/1/" (27040 25898 696567 655000) "./" "../" "main.py" ".venv/")
+
+ ("/home/sibi/code/python/project/" (27038 64889 702381 469000) "./" "pyproject.toml" "app.py" "../" "uv.lock" ".venv/")
+
+ ("/home/sibi/fletproject/" (27040 24196 431687 961000) "./" "../" "app/")
+
+ ("/home/sibi/code/python/" (27038 60174 816707 572000) "./" "1/" "project/" "../" "app/")
+
+ ("/home/sibi/editc/" (27036 34146 648671 79000) "./" "main.cpp" "TextEditor.cpp" "build/" "TextEditor.h" "../" "CMakeLists.txt")
+
+ ("/home/sibi/code/python/app/" (27032 36123 373153 87000) "./" "pyproject.toml" "app.py" "../" "uv.lock" ".venv/" ".idea/")
+
+ ("/home/sibi/code/c/" (27031 6264 725580 747000) "./" "main.c" "first/" "main.c~" "../" "main")
+
+ ("/home/" (26997 54802 258645 90000) "./" "sibi/" "../")
+
+ ("/home/sibi/code/" (27021 58386 606919 86000) "./" "config.txt" "python/" "c/" "../" "java/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

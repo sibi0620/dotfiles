@@ -1,0 +1,27 @@
+
+;; ----- smex-history -----
+(
+ dired
+ undo
+ flush-lines
+ compile
+ replace-string
+ find-file
+ whitespace-mode
+)
+
+;; ----- smex-data -----
+(
+ (treesit-install-language-grammar . 1)
+ (customize-themes . 1)
+ (customize-variable . 2)
+ (compile . 52)
+ (whitespace-mode . 3)
+ (rename-file . 1)
+ (display-fill-column-indicator-mode . 4)
+ (find-file . 1)
+ (dired . 11)
+ (replace-string . 5)
+ (undo . 16)
+ (flush-lines . 1)
+)
