@@ -15,6 +15,14 @@ alias shut='sudo poweroff'
 # Coimpilers:
 #alias odin='~/odin/odin'
 
+abbr -a gs  git status
+abbr -a ga  git add
+abbr -a ga. git add .
+abbr -a gc  git commit -m
+abbr -a gp  git push
+abbr -a gl  git log --oneline --graph --decorate
+
+
 if status is-interactive
 # Commands to run in interactive sessions can go here
 end
