@@ -15,11 +15,6 @@ alias shut='sudo poweroff'
 # Coimpilers:
 #alias odin='~/odin/odin'
 
-# gyem:
-alias bx='wine ~/gyem/BOXMAN_v0.5_x64/Boxman.exe'
-alias rh='wine ~/gyem/RH-Win64-Release/RuralHomecoming2.exe'
-alias wfr='wine ~/gyem/Wife_For_Rent/ファイル破損チェックツール.exe'
-
 if status is-interactive
 # Commands to run in interactive sessions can go here
 end
