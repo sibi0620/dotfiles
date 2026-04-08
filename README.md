@@ -29,6 +29,7 @@ I recommend using GNU Stow to manage symlinks easily.
 # Install stow (Void Linux)
 sudo xbps-install -S stow
 
+
 # Deploy configurations
 stow fish
 stow nvim
@@ -36,12 +37,3 @@ stow nvim
 Alternatively, manual symlinking:
 ln -s ~/dotfiles/fish/config.fish ~/.config/fish/config.fish
 
-📂 Repository Structure
-
-.
-├── fish/                # Fish shell configurations
-│   └── config.fish      # Main config with SSH automation
-├── nvim/                # Neovim configuration (init.lua)
-├── .gitignore           # Safety filter for secrets
-├── LICENSE              # MIT License
-└── README.md            # This document
